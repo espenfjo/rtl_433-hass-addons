@@ -22,3 +22,4 @@ This is a collection of Home Assistant add-ons that work with [rtl_433](https://
   3. Merge the PR into `main` to actually promote the release to end users. Note the new version(s) in the commit message.
     - Note we do not tag `main` in git, since each addon has it's own version number.
   4. Create a new branch off of `main` setting the addon versions back to `next`. Create a PR to merge `main` into `next` to reconcile the branches.
+.
